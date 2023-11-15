@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.move {
+    position: absolute;
+    top: 50%;
+    left: 14%;
+
+}
+
+.Movetabela {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
